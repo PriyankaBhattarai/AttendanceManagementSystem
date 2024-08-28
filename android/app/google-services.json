@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214322470101",
+    "project_id": "newams-b988f",
+    "storage_bucket": "newams-b988f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214322470101:android:8e0345d69ec6f64dd7165c",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIDv-UK8ec1p367wEi7VAz3scx7GQ1Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
