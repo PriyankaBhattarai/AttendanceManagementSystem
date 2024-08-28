@@ -60,7 +60,7 @@ class Signup extends StatelessWidget {
           controller: _emailController,
           decoration: InputDecoration(
               filled: true,
-              hintText: 'mahdiforwork@gmail.com',
+              hintText: 'user@gmail.com',
               hintStyle: const TextStyle(
                   color: Color(0xff6A6A6A),
                   fontWeight: FontWeight.normal,
@@ -68,7 +68,7 @@ class Signup extends StatelessWidget {
               fillColor: const Color(0xffF7F7F9),
               border: OutlineInputBorder(
                   borderSide: BorderSide.none,
-                  borderRadius: BorderRadius.circular(14))),
+                  borderRadius: BorderRadius.circular(5))),
         )
       ],
     );
@@ -91,7 +91,7 @@ class Signup extends StatelessWidget {
               fillColor: const Color(0xffF7F7F9),
               border: OutlineInputBorder(
                   borderSide: BorderSide.none,
-                  borderRadius: BorderRadius.circular(14))),
+                  borderRadius: BorderRadius.circular(5))),
         )
       ],
     );
@@ -102,7 +102,7 @@ class Signup extends StatelessWidget {
       style: ElevatedButton.styleFrom(
         backgroundColor: const Color(0xff0D6EFD),
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(14),
+          borderRadius: BorderRadius.circular(5),
         ),
         minimumSize: const Size(double.infinity, 60),
         elevation: 0,
